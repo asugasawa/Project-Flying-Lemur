@@ -1,21 +1,28 @@
 Project-Flying-Lemur
 ====================
-Objectives:
+
+
+Scope
+====================
 
 
 
 
 
-
-===================
-Features:
-
+Key Features
+====================
 
 
 
 
 
+RoadMap
+====================
 
 
-===================
-Contributor(s): Asugasawa AKA P-UNKNOWN
+
+
+Contributor(s)
+====================
+Project Manager - Asugasawa AKA P-UNKNOWN
+Chief Content Editor - Ssugasawa
