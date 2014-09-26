@@ -24,5 +24,5 @@ RoadMap
 
 Contributor(s)
 ====================
-Project Manager - Asugasawa AKA P-UNKNOWN
-Chief Content Editor - Ssugasawa
+Asugasawa AKA P-UNKNOWN - Project Manager <br>
+Ssugasawa - Chief Content Editor
